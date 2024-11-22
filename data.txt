@@ -1,1 +1,2 @@
-new info here (from new-feature branch )
+Line 1: Original content
+Line 2: Content from feature branch
