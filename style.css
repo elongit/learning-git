@@ -29,13 +29,13 @@ label{
     font-size: large;
 }
 input:hover{
-    outline: solid 2px tomato;
+    outline: solid 2px #3b82f6;
     transition: 100ms ease-in-out;
     
 }
 button{
     border: none;
-    background-color: tomato;
+    background-color: #3b82f6;
     font-size: large;
     padding: .7em;
     border-radius: 5px;
